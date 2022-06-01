@@ -39,3 +39,16 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+#play-btn{
+
+  background-color: red;
+  padding: 10px 30px 10px 30px;
+  color:white;
+  margin-top: 50px;
+  border-radius: 25px;
+  border: none;
+  font-weight: bold;
+  font-size: 30px;
+
+}
