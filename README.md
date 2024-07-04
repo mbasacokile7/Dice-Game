@@ -1,7 +1,7 @@
 # Dice-Game
 Simple JS Dice Game Web Page
 
-This was done while doping the App Brewery Web Development Bootcamp on Udemy. Credit should be given to them for the creation of the UI. The functionality was done by me as a challennge
+This was done while doing the App Brewery Web Development Bootcamp on Udemy. Credit should be given to them for the creation of the UI. The functionality was done by me as a challennge
 
 The UI is shown below:
 
